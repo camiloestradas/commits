@@ -1,0 +1,3 @@
+es solo una conexion nueva
+Our Opta sports data powers sports experiences across all media types, including the world’s biggest websites, news outlets, 
+sportsbooks, and mobile applications. Our data is captured in real-time, before being delivered to clients through our extensive range of feeds, which are offered at different detail levels depending on your requirements. This breadth allows us to offer you everything from live text commentaries, to deep historical data, to season-to-date cumulative stats.
